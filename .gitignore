@@ -1,0 +1,6 @@
+Builds/
+JuceLibraryCode/
+*.opendb
+*.swp
+*.RPP
+*.RPP-bak
